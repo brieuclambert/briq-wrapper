@@ -1,0 +1,17 @@
+Layout/Tab:
+  Enabled: false
+Layout/IndentationWidth:
+    Enabled: false
+Layout/AccessModifierIndentation:
+    Enabled: false
+Layout/IndentationConsistency:
+    Enabled: false
+Layout/IndentHash:
+    IndentationWidth: 4
+Layout/IndentHash:
+    Enabled: false
+Layout/ClosingParenthesisIndentation:
+    Enabled: false
+
+Style/SymbolArray:
+    EnforcedStyle: brackets
