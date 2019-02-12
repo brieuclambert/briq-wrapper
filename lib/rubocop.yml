@@ -12,6 +12,10 @@ Layout/IndentHash:
     Enabled: false
 Layout/ClosingParenthesisIndentation:
     Enabled: false
+Layout/FirstParameterIndentation:
+    Enabled: false
+Layout/IndentationWidth:
+  Enabled: false
 
 Style/SymbolArray:
     EnforcedStyle: brackets
